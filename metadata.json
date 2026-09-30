@@ -1,0 +1,6 @@
+{
+  "name": "Isaac Search Engine — Privacy Policy & Data Architecture",
+  "description": "Comprehensive privacy policy, client-side storage inventory, backend data handling specification, and third-party data flow documentation for Isaac Search Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
